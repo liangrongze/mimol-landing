@@ -359,7 +359,7 @@ header .ui-icon-download {
 	position: fixed;
 	width: 100%;
 /* new */
-  background: url("../images/main-header-bg.jpg") center no-repeat scroll;
+  background: url("../images/main-header-bg.jpg") center no-repeat scroll ＃eee;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
