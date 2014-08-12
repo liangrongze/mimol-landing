@@ -359,7 +359,7 @@ header .ui-icon-download {
 	position: fixed;
 	width: 100%;
 /* new */
-  background: url("../images/main-header-bg.jpg") center no-repeat scroll;
+  background: #eee url("../images/main-header-bg.jpg") center no-repeat scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1265,11 +1265,11 @@ only screen and (     -o-min-device-pixel-ratio: 3/2) {
         background-image: url("../images/retina/stanislav@2x.png");
         background-size: 100%;
     }
-    .ui-icon-hand {
+/*    .ui-icon-hand {
         background: url("../images/retina/hand@2x.png") 0 0 no-repeat;
         background-size: 100%;
     }
-    
+    */
 
     /* line 73, ../sass/pages/_main.scss */
     .main-content .section .focus-img.img-3 {
